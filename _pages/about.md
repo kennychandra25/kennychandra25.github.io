@@ -2,7 +2,7 @@
 layout: about
 title: About me
 permalink: /
-subtitle: >
+subtitle:
   <!--
   <a><img src="/assets/img/purdue_icon.png" alt="Purdue Logo" style="height:20px;vertical-align:middle;"></a>Ph.D. Purdue University
   
