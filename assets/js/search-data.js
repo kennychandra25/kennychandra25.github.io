@@ -440,16 +440,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-presenting-a-research-poster-at-aspire-annual-meeting",
-          title: 'Presenting a research poster at ASPIRE Annual Meeting.',
-          description: "",
-          section: "News",},{id: "news-",
-          title: '',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-passed-preliminary-exam-tada",
           title: 'Passed preliminary exam :tada:',
+          description: "",
+          section: "News",},{id: "news-invited-to-present-in-lectern-session-at-euro-working-group-transport-ewgt-2025-https-easychair-org-smart-program-ewgt2025-conference-edinburgh-uk",
+          title: 'Invited to present in lectern session at [Euro Working Group Transport (EWGT) 2025]...',
+          description: "",
+          section: "News",},{id: "news-presenting-a-research-poster-at-aspire-annual-meeting",
+          title: 'Presenting a research poster at ASPIRE Annual Meeting.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
