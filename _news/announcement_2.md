@@ -1,6 +1,5 @@
 ---
 layout: post
-<!-- title:-->
 date: 2025-09-02 16:11:00-0400
 inline: true
 related_posts: false
