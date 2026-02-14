@@ -440,16 +440,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-passed-preliminary-exam-tada",
-          title: 'Passed preliminary exam :tada:',
+            },},{id: "news-presenting-a-research-poster-at-aspire-annual-meeting",
+          title: 'Presenting a research poster at ASPIRE Annual Meeting.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-",
+          title: '',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-presenting-a-research-poster-at-aspire-annual-meeting",
-          title: 'Presenting a research poster at ASPIRE Annual Meeting.',
+            },},{id: "news-passed-preliminary-exam-tada",
+          title: 'Passed preliminary exam :tada:',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
