@@ -1,20 +1,22 @@
 ---
-layout: aboutnew
+layout: about
 title: About me
 permalink: /
 subtitle: >
-  Graduate Research Assistant<br>
   <a><img src="/assets/img/purdue_icon.png" alt="Purdue Logo" style="height:20px;vertical-align:middle;"></a>Ph.D. Purdue University<br>
+  <!--
   Email: kennychandra [at] outlook [dot] com <br>
   Office: 516 Northwestern Ave, West Lafayette, IN 47906 <br>
-
+  -->
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-
+    <p>R.4004 Seng-Liang Wang Hall</p>
+    <p>516 Northwestern Ave</p>
+    <p>West Lafayette, IN 47906</p>
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
