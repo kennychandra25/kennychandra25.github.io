@@ -3,8 +3,9 @@ layout: about
 title: About me
 permalink: /
 subtitle: >
+<!--
   <a><img src="/assets/img/purdue_icon.png" alt="Purdue Logo" style="height:20px;vertical-align:middle;"></a>Ph.D. Purdue University
-  <!--
+  
   Email: kennychandra [at] outlook [dot] com <br>
   Office: 516 Northwestern Ave, West Lafayette, IN 47906 <br>
   -->
@@ -31,7 +32,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 \\
-I’m a Graduate Research Assistant and Ph.D. candidate at Purdue University. My dissertation explores how people access, choose, and use electric vehicle charging stations — but more broadly, I’m fascinated by travel behavior and the everyday decisions behind how and why we move.
+I’m a Graduate Research Assistant and Ph.D. candidate at  <a><img src="/assets/img/purdue_icon.png" alt="Purdue Logo" style="height:20px;vertical-align:middle;"></a>Purdue University. My dissertation explores how people access, choose, and use electric vehicle charging stations — but more broadly, I’m fascinated by travel behavior and the everyday decisions behind how and why we move.
 
 I’m especially curious about how mobility fits into people’s lifestyles, how travel patterns change over the course of life, and how city design and transportation policies influence the way we behave and consume. I enjoy approaching these questions from an interdisciplinary perspective, drawing insights from social science, psychology, and policy to better understand what drives mobility behavior.
 
