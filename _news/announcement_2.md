@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-Invited to present in lectern session at [Euro Working Group Transport (EWGT) 2025] (https://easychair.org/smart-program/EWGT2025/) Conference, Edinburgh, UK.
+Invited to present in lectern session at [Euro Working Group Transport (EWGT) 2025](https://easychair.org/smart-program/EWGT2025/) Conference, Edinburgh, UK.
 
 <!--
 ---
