@@ -1,6 +1,6 @@
 ---
-layout: aboutnew
-title: About Me
+layout: about
+title: About me
 permalink: /
 subtitle: >
   Graduate Research Assistant<br>
