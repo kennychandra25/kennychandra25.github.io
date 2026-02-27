@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-16'
+  last_updated: '2026-02-27'
 papers:
   jEmXSqMAAAAJ:2osOgNQ5qMEC:
     citations: 3
@@ -9,6 +9,10 @@ papers:
     citations: 4
     title: 'Electric vehicles: public perceptions, expectations, and willingness-to-pay'
     year: '2024'
+  jEmXSqMAAAAJ:IjCSPb-OGe4C:
+    citations: 0
+    title: 'Perceived accessibility of electric vehicle charging stations: contributing factors and conceptual framework'
+    year: '2026'
   jEmXSqMAAAAJ:d1gkVwhDpl0C:
     citations: 0
     title: COVID-19 public transport responses in Taipei and Kaohsiung
@@ -22,6 +26,6 @@ papers:
     title: 'Away from over-populated development: Estimating urban carrying capacity with an integrated perspective of transportation and urban planning'
     year: '2025'
   jEmXSqMAAAAJ:u5HHmVD_uO8C:
-    citations: 1
+    citations: 3
     title: Public preferences for stationary wired and dynamic wireless electric vehicle charging technologies
     year: '2025'
