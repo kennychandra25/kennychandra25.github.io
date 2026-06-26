@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-03'
+  last_updated: '2026-06-26'
 papers:
   jEmXSqMAAAAJ:2osOgNQ5qMEC:
     citations: 3
@@ -29,3 +29,7 @@ papers:
     citations: 4
     title: Public preferences for stationary wired and dynamic wireless electric vehicle charging technologies
     year: '2025'
+  jEmXSqMAAAAJ:zYLM7Y9cAGgC:
+    citations: 0
+    title: 'Electric Vehicle Charging Stations: Accessibility, Preferences, and Utilization Behavior'
+    year: Unknown Year
